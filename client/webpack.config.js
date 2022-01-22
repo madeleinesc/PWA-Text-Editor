@@ -9,8 +9,7 @@ module.exports = () => {
     // Entry point for files
     entry: {
       main: './src/js/index.js',
-      install: './src/js/install.js',
-      cards: './src/js/cards.js'
+      install: './src/js/install.js'
     },
     // Output for our bundles
     output: {
