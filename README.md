@@ -1,4 +1,4 @@
-# Unit 19 PWA Homework: Text Editor
+# PWA Text Editor
 
 
 ## Description
@@ -19,23 +19,21 @@ SO THAT I can reliably retrieve them for later use
 
 ## Mock-Up
 
+Below is a screenshot of the final text editor app!
+
+
+![text editor app](./assets/texteditor.png)
+
+
+
 The following gif demonstrates the application functionality:
 
 
-
-
-The following image shows the application's `manifest.json` file:
-
-
-
-The following image shows the application's registered service worker:
+![text editor gif](./assets/texteditor.gif)
 
 
 
-The following image shows the application's IndexedDB storage:
-
-
-To view the deployed text editor: [Just Another Text Editor](https://tranquil-waters-73039.herokuapp.com/)
+To view the full deployed text editor or to download and install: [Just Another Text Editor](https://tranquil-waters-73039.herokuapp.com/)
 
 
 ## Credit
